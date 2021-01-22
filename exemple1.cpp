@@ -13,7 +13,7 @@ Fonction principale
 int main()	// Fonction principale
 {
 
-
+	cout <<"Bonjour tout le monde"<<endl;
 
 	_getch();	// attente d'appui sur une touche
 	return 0;	// fin du programme. Le code 0 est envoyé
