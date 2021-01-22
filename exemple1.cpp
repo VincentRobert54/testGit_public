@@ -13,7 +13,6 @@ Fonction principale
 int main()	// Fonction principale
 {
 	int x ; // Ajout d'un entier
-	double y; // Ajout d'un réel y
 	cout <<"Bonjour tout le monde"<<endl;
 
 	_getch();	// attente d'appui sur une touche
