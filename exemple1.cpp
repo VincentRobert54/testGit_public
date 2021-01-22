@@ -12,7 +12,7 @@ Fonction principale
 *****************************/
 int main()	// Fonction principale
 {
-
+	int x ; // Ajout d'un entier
 	cout <<"Bonjour tout le monde"<<endl;
 
 	_getch();	// attente d'appui sur une touche
