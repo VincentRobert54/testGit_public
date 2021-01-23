@@ -1,7 +1,7 @@
 /***************************
-
+Modifi√© depuis testGit_public
 *****************************/
-#include <iostream>	// bibliothËque de gestion des E/S
+#include <iostream>	// biblioth√®que de gestion des E/S
 #include <conio.h>	// gestion de la console (ici _getch())
 
 
@@ -23,5 +23,5 @@ int main()	// Fonction principale
 	cout <<"Bonjour tout le monde"<<endl;
 
 	_getch();	// attente d'appui sur une touche
-	return 0;	// fin du programme. Le code 0 est envoyÈ
+	return 0;	// fin du programme. Le code 0 est envoy√©
 }
