@@ -13,8 +13,8 @@ Fonction principale
 int main()	// Fonction principale
 {
 	int x ; // Ajout d'un entier
-	cout <<"Bonjour tout le monde"<<endl;
-
+	
+	cout <<"coucou";
 	_getch();	// attente d'appui sur une touche
 	return 0;	// fin du programme. Le code 0 est envoyé
 }
