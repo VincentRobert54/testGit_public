@@ -36,7 +36,7 @@ Entrez les programmes/logiciels/ressources que vous avez utilisé pour développ
 
 _exemples :_
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE avec des extensions très intéressantes
-* [Bootstrap]https://getbootstrap.com/) - Librairie pour les site Web Responsive
+* [Bootstrap](https://getbootstrap.com/) - Librairie pour les site Web Responsive
 
 ## Contributing
 
