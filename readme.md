@@ -54,7 +54,7 @@ _(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **Vincent ROBERT** _alias_ [@outout14](https://github.com/VincentRobert54/testGit_public)
+* **Vincent ROBERT** _alias_ [@email](vincent.robert@cdfnancy.fr)
 
 Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
 
