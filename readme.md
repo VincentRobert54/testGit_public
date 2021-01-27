@@ -1,7 +1,5 @@
 # Titre du projet
-_(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 Une petite description du projet
 
@@ -37,8 +35,8 @@ Dites comment faire pour lancer votre projet
 Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
 
 _exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE avec des extensions très intéressantes
+* [Bootstrap]https://getbootstrap.com/) - Librairie pour les site Web Responsive
 
 ## Contributing
 
