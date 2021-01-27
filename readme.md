@@ -54,7 +54,7 @@ _(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **Vincent ROBERT** [email](<a href="mailto:vincent.robert@cdfnancy.fr"></a>)
+* **Vincent ROBERT** [mailto](mailto:vincent.robert@cdfnancy.fr)
 Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
 
 _(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
